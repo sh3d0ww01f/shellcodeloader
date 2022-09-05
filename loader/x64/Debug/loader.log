@@ -1,0 +1,6 @@
+﻿cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  loader.cpp
+D:\source\repos\loader\loader\loader.cpp(42,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\source\repos\loader\loader\loader.cpp(116,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\source\repos\loader\loader\loader.cpp(114,8): warning C4101: “name”: 未引用的局部变量
+  loader.vcxproj -> D:\source\repos\loader\x64\Debug\loader.exe
